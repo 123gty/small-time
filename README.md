@@ -1,4 +1,3 @@
-# fux-ui
 
 ## Project setup
 ```
